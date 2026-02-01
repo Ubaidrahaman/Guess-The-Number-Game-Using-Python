@@ -25,3 +25,5 @@ This project is designed for beginners to practice basic Python concepts like lo
 2. Download or clone this repository.
 3. Open a terminal or command prompt in the project folder.
 4. Run the following command:
+```bash
+python guess_the_number.py
